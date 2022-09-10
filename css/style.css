@@ -1,0 +1,74 @@
+h1 {
+	color: green;
+}
+
+/* !Закоментувала, щоб цей селектор не перебивав деякі інші */
+/* 
+* {
+	color: firebrick;
+} */
+
+.subtitle {
+	color: red;
+}
+.content .unit {
+	color: green;
+}
+.content a {
+	color: goldenrod;
+}
+
+div.early {
+	color: olive;
+}
+
+.early span {
+	color: orchid;
+}
+
+#war {
+	color: orangered;
+}
+.marriage {
+	color: rebeccapurple;
+}
+
+.reign>p {
+	color: darkblue;
+}
+
+.coronation,
+.decolonisation {
+	color: seagreen;
+}
+
+.silver.jubilee {
+	color: blueviolet;
+}
+
+.horribilis+p {
+	color: mediumseagreen;
+}
+
+.golden *{
+	color: green
+}
+.pandemic * {
+	color:red;
+}
+.platinum.jubilee {
+	color: blue;
+}
+
+.thanksgiving~p {
+	color:blue;
+}
+
+p.rip {
+	color:black;
+}
+.death {
+	color: brown;
+}
+
+
